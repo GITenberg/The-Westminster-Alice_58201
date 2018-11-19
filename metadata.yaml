@@ -1,5 +1,8 @@
 _repo: The-Westminster-Alice_58201
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58201-h/images/cover.jpg
 creator:
   author:
     agent_name: Saki
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/152
     wikipedia: http://en.wikipedia.org/wiki/Saki
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58201#The-Westminster-Alice
 gutenberg_issued: '2018-10-30'
 gutenberg_type: Text
 identifiers:
